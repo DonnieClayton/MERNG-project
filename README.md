@@ -7,7 +7,7 @@ Step 1.) "cd client"
 
 Step 2.) "npm install"
 
-Step 3.) "npm start" (PLEASE USE "npm audit fix" if neededfor Mongoose 5.7.4)
+Step 3.) "npm start" (PLEASE USE "npm audit fix" if needed for Mongoose 5.7.4)
 
 React App (index.js)
 
